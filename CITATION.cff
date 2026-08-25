@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "Code for Graph-based causal variance decompositions: When 'variance explained' means causation"
+authors:
+  - family-names: Saarela
+    given-names: Olli
+  - family-names: Karvanen
+    given-names: Juha
+version: 1.0.0
+date-released: 2026-08-XX
+url: "https://github.com/saarelao/causal-decompositions-simulations"

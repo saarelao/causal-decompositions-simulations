@@ -1,0 +1,11 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+renv/library/
+outputs/*
+!outputs/.gitkeep
+*.aux
+*.log
+*.out
+
