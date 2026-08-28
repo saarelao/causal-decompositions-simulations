@@ -2,7 +2,7 @@
 
 This repository reproduces the simulation results reported in the manuscript
 "Graph-based causal variance decompositions: When 'variance explained' means causation" 
-dated 2026-08-18. It contains the data-generating mechanism, estimators,
+dated 2026-08-27 (arXiv:2608.27140). It contains the data-generating mechanism, estimators,
 Monte Carlo workflows, and figure code. No individual-level or external data
 are required.
 
